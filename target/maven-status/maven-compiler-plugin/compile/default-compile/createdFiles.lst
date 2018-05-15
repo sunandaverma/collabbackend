@@ -1,0 +1,13 @@
+com\niit\collaboration\domain\BaseDomain.class
+com\niit\collaboration\DAO\BlogDAO.class
+com\niit\collaboration\config\ApplicationContextConfig.class
+com\niit\collaboration\DAOImplement\JobDAOimpl.class
+com\niit\collaboration\DAOImplement\BlogDAOimpl.class
+com\niit\collaboration\domain\Blog.class
+com\niit\collaboration\domain\BlogComment.class
+com\niit\collaboration\DAOImplement\UserDAOimpl.class
+com\niit\collaboration\domain\Job.class
+com\niit\collaboration\DAO\JobDAO.class
+com\niit\collaboration\domain\JobApplication.class
+com\niit\collaboration\DAO\UserDAO.class
+com\niit\collaboration\domain\User.class
